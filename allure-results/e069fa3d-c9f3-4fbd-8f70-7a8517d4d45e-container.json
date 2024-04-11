@@ -1,0 +1,1 @@
+{"uuid":"e069fa3d-c9f3-4fbd-8f70-7a8517d4d45e","name":"Suite","children":["403760c0-d7e5-4551-b58e-d9bf0190b7bd"],"befores":[{"name":"initDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712773511697,"stop":1712773517027}],"afters":[],"start":1712773511675,"stop":1712773520876}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="signin">
+	  <parameter name="username" value="camilita32"></parameter>
+	  <parameter name="password" value="testngxml9"></parameter>
+    <classes>
+      <class name="blazeRegisterUser.BlazeSignin"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test  name="login">
+	   <parameter name="username" value="camilita32"></parameter>
+	  <parameter name="password" value="testngxml9"></parameter>
+    <classes>
+      <class name="blazeRegisterUser.Blazelogin"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->
